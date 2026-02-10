@@ -6,7 +6,7 @@ Storing setup and config (primarily for Linux) for later reference.
 
 ``` sh
 $ brew install font-meslo-lg-nerd-font neovim ripgrep
-$ mkdir -p ~/.config/nvim && cd ~/.config/nvim
+$ mkdir -p ~/.config/nvim
 $ git clone git@github.com:tezli/nvim.git ~/.config/nvim
 ```
 # Have Fun
